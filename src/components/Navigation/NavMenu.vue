@@ -1,6 +1,7 @@
 <template lang="">
   <header class="header">
     <div class="header-nav">
+      <p class="header-nav__item">Главное</p>
       <p class="header-nav__item">Популярное</p>
       <p class="header-nav__item">Спорт</p>
       <p class="header-nav__item">Политика</p>
